@@ -6,8 +6,6 @@ func main() {
 	var operation string
 	var number1 int
 	var number2 int
-	// operation := ""
-	// number1, number2 := 0, 0
 
 	fmt.Println("Calculator GO 0.1.0")
 	fmt.Println("=======================")
